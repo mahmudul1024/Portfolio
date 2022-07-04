@@ -1,9 +1,13 @@
-
+import React from 'react'
+import Compo1 from './Compo1';
 
 function App() {
   return (
     <div >
-      <h1>Hi</h1>
+   
+
+   <Compo1></Compo1>
+      
     </div>
   );
 }

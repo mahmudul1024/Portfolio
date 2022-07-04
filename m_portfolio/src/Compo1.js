@@ -3,7 +3,7 @@ import React from 'react'
 const Compo1 = () => {
   return (
     <>
-    <section className='top-banner'>
+    <section className='top-banner flex_container'>
     <div className='bdy half-width ' >
       <h1>Welcome To </h1>
       <h1> <span className='orange_color'>Mahmudul Hasan </span>  World </h1>
@@ -23,7 +23,7 @@ Hey, I'm Md Shijan Ali as a Professional Web & WordPress Developer. I have 5+ ye
     </section>
 
 
-<section className='dream-big'>
+<section className='dream-big flex_container'>
 
 <div className='half-width '>
     <img src='images/my-bg.jpg'></img>
@@ -37,6 +37,25 @@ Hey, I'm Md Shijan Ali as a Professional Web & WordPress Developer. I have 5+ ye
 
     <a className='link-button' target={'_blank'} href='' >Download Resume</a>
  </div>
+</section>
+
+
+<section className='experience_area'>
+<h1>Experience</h1>
+<div className='flex_container'>
+<div className='half-width'>
+<h1>Full Stack Web Developer</h1>
+<h3>2021-Present | Pro Level Developer</h3>
+<p>I am the master of HTML, CSS and Javascript. I know everything needed to make a website function, efficient. I didn't stop with the web. I went beyond with most popular Javascript framework called Vue JS. I even know the deployment, server and security. I will give you 100% web solution.</p>
+</div>
+
+<div className='half-width'>
+    <h1>Baby Web Developer</h1>
+    <h3>2020-2021 | Programming Hero Learner</h3>
+    <p>They didn't offer me a job. But I made myself as a remove web developer. I made their website and showed it to them. They liked it. And uploaded the content. It was fun working at Programming Hero.</p>
+</div>
+</div>
+
 </section>
     </>
   )

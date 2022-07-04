@@ -21,6 +21,23 @@ Hey, I'm Md Shijan Ali as a Professional Web & WordPress Developer. I have 5+ ye
 
 
     </section>
+
+
+<section className='dream-big'>
+
+<div className='half-width '>
+    <img src='images/my-bg.jpg'></img>
+</div>
+  <div className='half-width ' >
+
+    <h1>Dream Big</h1>
+    <h2>Become a web Developer</h2>
+    <p>I already learned the basic HTML and CSS. I can build any simple website. I can even teach my grandma how to make simple website. My goal is to build 3 websites and learn advanced topics.</p>
+
+
+    <a className='link-button' target={'_blank'} href='' >Download Resume</a>
+ </div>
+</section>
     </>
   )
 }

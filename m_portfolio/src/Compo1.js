@@ -9,7 +9,7 @@ const Compo1 = () => {
       <h1> <span className='orange_color'>Mahmudul Hasan </span>  World </h1>
            <h3>Build Climber and Train Stopper</h3>
         <p>
-Hey, I'm Md Shijan Ali as a Professional Web & WordPress Developer. I have 5+ years of experience in this field. I have completed more than 200+ Projects for my different countries clients. 
+Hey, I'm Hasan ,working as a Professional Web & WordPress Developer. I have 5+ years of experience in this field. I have completed more than 200+ Projects for my different countries clients. 
         </p>
 
         <a  target={"_blank"} className={"link-button"} href='https://www.linkedin.com/in/mahmudul-hasan-33a34421a/'>Hire Me</a>
@@ -61,9 +61,13 @@ Hey, I'm Md Shijan Ali as a Professional Web & WordPress Developer. I have 5+ ye
 <footer>
     <p>© Freelancer Hasan 2022, a Programming Student.</p>
 </footer>
+
     </>
   )
+  
 }
+
+
 
 
 export default Compo1
